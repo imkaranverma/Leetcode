@@ -1,33 +1,30 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-
-        // 0 - (Low-1) : RED
-        // low - (mid-1): WHITE
-        // mid - high-1 : unsorted
-        // high - (n-1) : BLUE
         
-        int low=0, mid=0, high = nums.size()-1;
-       while(mid <= high){
-        //    cout<< mid<< endl;
-            if(nums[mid] == 0){
-                swap(nums[low] , nums[mid]);
-                low++, mid++;
-                // cout<< "1st"<<endl;
+        vector<int> n(nums.size() , 3);
+        int low = 0;
+        int mid= 1;
+        int high= nums.size() -1;
+
+        for(int i= 0 ;i< nums.size(); i++){
+            if(nums[i] == 0){
+                n[low] = 0;
+                low++;
+                // mid++;
             }
-
-            else if(nums[mid] == 1) {
-                mid++;
-                // cout<< "2nd"<<endl;
-
-            }
-
-            else if(nums[mid] == 2){
-                swap(nums[mid], nums[high]);
-                high--;
-                // cout<< "3rd"<<endl;
+            else if(nums[i] == 2){
+                 n[high] = 2;
+                 high--;
             }
         }
 
+        for(int i=low; i<=high ;i++){
+            n[i]=1;
+        }
+
+        for(int i = 0; i< n.size() ; i++){
+            nums[i] = n[i];
+        }
     }
 };
