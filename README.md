@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/imkaranverma/Leetcode/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/imkaranverma/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2089-maximum-matrix-sum](https://github.com/imkaranverma/Leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Greedy
@@ -92,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/imkaranverma/Leetcode/tree/master/2089-maximum-matrix-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/imkaranverma/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/imkaranverma/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
