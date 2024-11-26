@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/imkaranverma/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imkaranverma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1293-three-consecutive-odds](https://github.com/imkaranverma/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2089-maximum-matrix-sum](https://github.com/imkaranverma/Leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Greedy
@@ -101,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/imkaranverma/Leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imkaranverma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
