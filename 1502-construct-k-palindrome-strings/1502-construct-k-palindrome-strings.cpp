@@ -4,6 +4,8 @@ public:
         unordered_map <int, int> mp; 
 
             if(s.length() < k) return false;
+            if(s.length() == k) return true;
+
         for(int i=0; i< s.length() ; i++){
             mp[s[i]]++;
         }
