@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imkaranverma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/imkaranverma/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1293-three-consecutive-odds](https://github.com/imkaranverma/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/imkaranverma/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2089-maximum-matrix-sum](https://github.com/imkaranverma/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [3429-special-array-i](https://github.com/imkaranverma/Leetcode/tree/master/3429-special-array-i) |
 ## Greedy
