@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/imkaranverma/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1293-three-consecutive-odds](https://github.com/imkaranverma/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imkaranverma/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/imkaranverma/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2089-maximum-matrix-sum](https://github.com/imkaranverma/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/imkaranverma/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/imkaranverma/Leetcode/tree/master/3429-special-array-i) |
