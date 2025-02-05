@@ -126,16 +126,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/imkaranverma/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1502-construct-k-palindrome-strings](https://github.com/imkaranverma/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imkaranverma/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/imkaranverma/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imkaranverma/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/imkaranverma/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imkaranverma/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Breadth-First Search
 |  |
