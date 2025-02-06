@@ -1,20 +1,6 @@
 class Solution {
 public:
 
-long nCr(int n, int r)
-{
-    return fact(n) / (fact(r) * fact(n - r));
-}
-
-long fact(int n)
-{
-      if(n==0)
-      return 1;
-    long res = 1;
-    for (int i = 2; i <= n; i++)
-        res = res * i;
-    return res;
-}
     int tupleSameProduct(vector<int>& nums) {
         
         int count=0;
