@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/imkaranverma/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/imkaranverma/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imkaranverma/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/imkaranverma/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/imkaranverma/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/imkaranverma/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/imkaranverma/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [2434-design-a-number-container-system](https://github.com/imkaranverma/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,4 +170,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/imkaranverma/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/imkaranverma/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/imkaranverma/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
