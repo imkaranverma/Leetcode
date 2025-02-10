@@ -4,7 +4,7 @@ public:
         string ans = "";
         int count = 0;
         for(int i=s.length()-1; i>=0 ; i--){
-            cout<<"s[i]:"<< s[i];
+            // cout<<"s[i]:"<< s[i];
             if(s[i]>=48 && s[i]<=57){
                 count++;
                 continue;
