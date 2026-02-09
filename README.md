@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/imkaranverma/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/imkaranverma/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/imkaranverma/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/imkaranverma/Leetcode/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -260,12 +262,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/imkaranverma/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/imkaranverma/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/imkaranverma/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/imkaranverma/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -273,9 +277,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/imkaranverma/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Graph
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/imkaranverma/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
