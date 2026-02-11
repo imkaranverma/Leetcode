@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/imkaranverma/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/imkaranverma/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/imkaranverma/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/imkaranverma/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/imkaranverma/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/imkaranverma/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/imkaranverma/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,4 +302,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
