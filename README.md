@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/imkaranverma/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/imkaranverma/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3713-longest-balanced-substring-i](https://github.com/imkaranverma/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/imkaranverma/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/imkaranverma/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3713-longest-balanced-substring-i](https://github.com/imkaranverma/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imkaranverma/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/imkaranverma/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imkaranverma/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3713-longest-balanced-substring-i](https://github.com/imkaranverma/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/imkaranverma/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/imkaranverma/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/imkaranverma/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
