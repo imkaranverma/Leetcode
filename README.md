@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/imkaranverma/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/imkaranverma/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imkaranverma/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0799-champagne-tower](https://github.com/imkaranverma/Leetcode/tree/master/0799-champagne-tower) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/imkaranverma/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/imkaranverma/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/imkaranverma/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
